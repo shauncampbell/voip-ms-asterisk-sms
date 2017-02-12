@@ -1,0 +1,11 @@
+{
+  "name": "voipms_incoming",
+  "version": "0.1.0",
+  "description": "web server for receiving sms from VoIP.ms API",
+  "author": "Shaun Campbell",
+  "license": "MIT",
+  "dependencies": {
+    "asterisk-ami": "^0.2.0-beta",
+    "express": "^4.14.0"
+  }
+}
